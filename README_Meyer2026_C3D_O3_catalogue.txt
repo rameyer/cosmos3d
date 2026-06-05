@@ -18,7 +18,7 @@ segment_id: id of the source in the segmentation maps of COSMOS-Web (A1-10, B1-1
 
 z: Redshift (Based on a simultaneous fit of the OIII+Hb lines
 
-f_Hb,e_Hb: flux and error the H-Beta 4862 line [erg / s / cm^2] 
+f_Hb,e_Hb: flux and error the H-Beta 4862 line [erg / s / cm^2]. -99 fluxes and errors indicate the line is not observed/measured.
 
 f_O34960, e_O34960:  flux and error the [OIII] 4960 line [erg / s / cm^2] 
 
