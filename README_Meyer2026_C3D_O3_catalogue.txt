@@ -26,3 +26,5 @@ f_O35008, e_O35008:  flux and error the [OIII] 5008 line [erg / s / cm^2]
 
 mag_model_f444w, mag_err_model_f444w: F444W model magnitude from the COSMOS-Web catalogue, necessary to compute the full completeness for each source (see further paper).
 
+completeness_5008, err_completeness_5008: end-to-end completeness and err (see further Meyer et al. 2026).
+
